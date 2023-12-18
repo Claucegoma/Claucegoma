@@ -29,7 +29,7 @@ I´m in love with learning new lenguajes. I dream to visit many countries and cu
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>  
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://lit.dev/" target="_blank" rel="noreferrer"><img src="https://lit.dev/images/logo-whitebg-padded-1600x800.png" width="40" height="36" alt="LIt" /></a>
+<a href="https://lit.dev/" target="_blank" rel="noreferrer"><img src="https://lit.dev/images/logo-whitebg-padded-1600x800.png" width="43" height="36" alt="LIt" /></a>
 </p>
 
 *    ### Social media
