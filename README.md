@@ -37,7 +37,7 @@ I´m in love with learning new lenguajes. I dream to visit many countries and cu
                   
  <p align="left">
                           
-<a href="https://portfolio-claucegoma.vercel.app/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4E2DAQH1l0Rg-aY19Q/profile-treasury-image-shrink_1920_1920/0/1702860934510?e=1703469600&v=beta&t=n7taEu6hkkq1PqP5TW95RAOAb3AmQXwqqFr8JkUB7Fo" width="32" height="32" /></a>
+<a href="https://portfolio-cluacegoma-7.vercel.app/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4E2DAQH1l0Rg-aY19Q/profile-treasury-image-shrink_1920_1920/0/1702860934510?e=1703469600&v=beta&t=n7taEu6hkkq1PqP5TW95RAOAb3AmQXwqqFr8JkUB7Fo" width="32" height="32" /></a>
                           
 <a href="https://www.github.com/Claucegoma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
