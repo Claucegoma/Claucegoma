@@ -29,7 +29,7 @@ I´m in love with learning new lenguajes. I dream to visit many countries and cu
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>  
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://lit.dev/" target="_blank" rel="noreferrer"><img src="https://lit.dev/images/logo-whitebg-padded-1600x800.png" width="36" height="36" alt="LIt" /></a>
+<a href="https://lit.dev/" target="_blank" rel="noreferrer"><img src="https://lit.dev/images/logo-whitebg-padded-1600x800.png" width="40" height="36" alt="LIt" /></a>
 </p>
 
 *    ### Social media
@@ -41,8 +41,8 @@ I´m in love with learning new lenguajes. I dream to visit many countries and cu
                           
 <a href="https://www.github.com/Claucegoma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-<a href="https://www.linkedin.com/in/ceciliagonzalezmariblanca777/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a
-                                                                                                                                                                                                                                                   
+<a href="https://www.linkedin.com/in/ceciliagonzalezmariblanca777/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
 <a href="https://www.facebook.com/cecilia goma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 </p>
 
